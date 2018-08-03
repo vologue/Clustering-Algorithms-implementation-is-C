@@ -1,2 +1,2 @@
-# Clustering-Algorithms-implementation-is-C
+# Clustering-Algorithms-implementation-in-C
 C Codes to Implement popular Clustering algorithms!
